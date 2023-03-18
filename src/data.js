@@ -15,7 +15,7 @@ export const services=[
     {id:2,
       icon:'fas fa-wallet fa-fw',
       title:'endless hiking',
-    text:'Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.',
+    text:'Lorem ipsum dolor sit t consectetur adipisicing elit.Asperiores, officia.',
     
     },
     {id:3,
