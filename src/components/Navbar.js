@@ -22,6 +22,8 @@ const Navbar = () => {
             )
           })}
           
+
+          
         </ul>
 
         <ul class="nav-icons">
